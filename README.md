@@ -1,1 +1,2 @@
-# Blue Dolphin, A MySQL-based Cloud-Native Database
+# Blue Dolphin
+our very own MySQL branch as well as tools.
